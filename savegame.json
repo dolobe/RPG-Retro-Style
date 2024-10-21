@@ -1,1 +1,1 @@
-{"name": "Bob", "age": "14", "job": "Warrior", "weapon": "Sword", "health": 100, "strength": 10, "defense": 5, "speed": 5, "inventory": {"potions": 2, "attack_boost": 1, "defense_boost": 1}}
+{"name": "Herison", "age": "2", "weapon": "Knife", "health": 100, "strength": 10, "defense": 5, "xp": 0, "gold": 50, "inventory": {"potions": 0, "attack_boost": 0, "defense_boost": 0}}
